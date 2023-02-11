@@ -1,0 +1,15 @@
+.flex {
+  display: flex;
+}
+.flex-column {
+  flex-direction: column;
+}
+.main-container {
+  height: 100vh;
+}
+.header {
+  flex: 2;
+}
+.footer {
+  flex: 1;
+}
